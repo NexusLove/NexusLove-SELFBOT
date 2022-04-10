@@ -1,0 +1,16 @@
+{
+    "Activity_name": "DORTROX",
+    "channel_json": {
+        "name": "heil dortrox",
+        "type": 0
+    },
+    "role_json": {
+        "name": "heil dortrox"
+    },
+    "token": "Start using env dumbass unless you want to be smoked",
+    "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
+    "webhook_content": "@everyone Nuked by dortrox",
+    "webhook_name": "Ruined By Dortrox",
+    "webhooks": "False",
+    "prefix": ">"
+}
